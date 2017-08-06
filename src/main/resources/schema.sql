@@ -19,5 +19,5 @@ INSERT into `team` values (1, 'Manchester', 10, 2, 5);
 INSERT into `team` values (2, 'Chelsea', 9, 3, 5);
 INSERT into `team` values (3, 'Arsenal', 6, 4, 7);
 
-INSERT into `account` values (1, 'pass', 'andriy');
+INSERT into `account` values (1, 'pass', 'admin');
 
