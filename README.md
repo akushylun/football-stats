@@ -1,6 +1,6 @@
 football-stats App
 
-football-stats is a REST APIs example build with H2 database and Spring Boot.
+football-stats is a REST APIs example built with H2 database and Spring Boot.
 Spring Boot provides the RESTful API. H2 stores data.
 
 Installation
@@ -8,7 +8,7 @@ Installation
 1. Clone the repository: git clone https://github.com/akushylun/football-stats.git
 2. Install the application: mvn package
 3. Start the application java -jar football-stats-0.0.1-SNAPSHOT.jar 
-4. View in browser at:
+4. View in browser:
 
 4.1 Enter User Name 'admin' and Password 'pass' on http://localhost:8080  
   
